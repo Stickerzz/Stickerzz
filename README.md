@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **My Discord down below.**
 
-- 🌱 What do I do? **I create maps for GTA V.**
+- 🌱 **I create maps for GTA V.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
