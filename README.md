@@ -1,12 +1,14 @@
 <h1 align="center">Hey, I'm Stickerz</h1>
-<h3 align="center">A noob trying to learn to code. Also do some 3D environment work on the side.</h3>
+<h3 align="center">3D Artist. Have knowledge of Lua, small amounts of CSS + HTML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stickerzz&label=Profile%20views&color=0e75b6&style=flat" alt="stickerzz" /> </p>
 
 
 - 📫 How to reach me **My Discord down below.**
 
-- 🌱 **I create maps for GTA V.**
+- 🌱 **I create maps for FiveM.**
+
+- 👨‍💻 I have developed for: **PhoenixRP** (2020 -> 2021), **PassionRP** (Late 2021 -> Current), and **EchoRP** (Feb 2023 -> Current) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
