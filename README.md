@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Stickerz</h1>
-<h3 align="center">3D Artist. Have knowledge of Lua, small amounts of CSS + HTML</h3>
+<h3 align="center">3D Artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stickerzz&label=Profile%20views&color=0e75b6&style=flat" alt="stickerzz" /> </p>
 
