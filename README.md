@@ -8,7 +8,10 @@
 
 - 🌱 **I create maps for FiveM.**
 
-- 👨‍💻 I have developed for: **PhoenixRP** (2020 -> 2021), **PassionRP** (Late 2021 -> Current), and **EchoRP** (Feb 2023 -> Current) 
+- 👨‍💻 I have developed for:
+**PhoenixRP** (2020 -> 2021)
+**PassionRP** (Late 2021 -> Current)
+**EchoRP** (Feb 2023 -> Current) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
