@@ -9,9 +9,12 @@
 - 🌱 **I create maps for FiveM.**
 
 - 👨‍💻 I have developed for:
-**PhoenixRP** (2020 -> 2021)
-**PassionRP** (Late 2021 -> Current)
-**EchoRP** (Feb 2023 -> Current) 
+
+**PhoenixRP** (2020 -> 2021)<img align="center" src="https://media.discordapp.net/attachments/765474179226927154/778685177689800724/PhoenixRP-Logo.png" height="40" width="40" />
+
+**PassionRP** (Late 2021 -> Current)<img align="center" src="https://cdn.discordapp.com/attachments/1096789467689390170/1098729296941547722/1251x1251300.png" height="40" width="40" />
+
+**EchoRP** (Feb 2023 -> Current)<img align="center" src="https://media.discordapp.net/attachments/652157608668561419/859247580897607680/EchoRP_Logo_PNG.png" height="40" width="70" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
