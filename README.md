@@ -9,7 +9,7 @@
 - 🌱 **I create maps for FiveM** <img align="center" src="https://asset.brandfetch.io/id1g16nw_8/idDU-foBv6.png" height="30" width="30" />
 - 👨‍💻 Servers I have developed for:
 
-**PhoenixRP** (2020 -> 2021)<img align="center" src="https://media.discordapp.net/attachments/765474179226927154/778685177689800724/PhoenixRP-Logo.png" height="40" width="40" />
+**PhoenixRP** (2020 -> 2021)
 
 **PassionRP** (Late 2021 -> April 2023)<img align="center" src="https://stickerz.is-pretty.cool/6TXLGVo.png" height="40" width="55" />
 
